@@ -1,0 +1,13 @@
+Male 24;
+Band.wav noHaptics 50;
+Band.wav pitchHaptics 66;
+Band.wav pitchHapticsOctaved 61;
+Band.wav normalHaptics 68;
+Duo.wav noHaptics 50;
+Duo.wav normalHaptics 64;
+Duo.wav pitchHapticsOctaved 74;
+Duo.wav pitchHaptics 57;
+Orchestra.wav noHaptics 50;
+Orchestra.wav normalHaptics 61;
+Orchestra.wav pitchHaptics 60;
+Orchestra.wav pitchHapticsOctaved 72;

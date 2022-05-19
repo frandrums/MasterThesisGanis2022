@@ -1,0 +1,12 @@
+1_asc_Sine_CIAM.wav;
+1_desc_Sine_CIAM.wav;
+1_ascDesc_Sine_CIAM.wav;
+1_descAsc_Sine_CIAM.wav;
+1_stillAsc_Sine_CIAM.wav;
+1_descStll_Sine_CIAM.wav;
+2_asc_Sine_CIAM.wav;
+2_desc_Sine_CIAM.wav;
+2_ascDesc_Sine_CIAM.wav;
+2_descAsc_Sine_CIAM.wav;
+2_stillAsc_Sine_CIAM.wav;
+2_descStll_Sine_CIAM.wav;

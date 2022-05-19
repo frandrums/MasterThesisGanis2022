@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="MelodyContour_Icons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#646464"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="79"
+     inkscape:cy="453.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid828" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker2471"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path2469" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1241" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1265" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1247" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path1259" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1235" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path1259-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path1259-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2471-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2469-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2471-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2469-94" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path1259-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path1259-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2471-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2469-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2471-8-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2469-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker931"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path929" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2471-7-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2469-94-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Guidelines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853"
+       width="25"
+       height="24.999998"
+       x="15"
+       y="30.000002"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\asc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="1.9999981" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853-7"
+       width="25"
+       height="24.999998"
+       x="15"
+       y="60"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\desc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853-76"
+       width="25"
+       height="24.999998"
+       x="45"
+       y="30"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\ascDesc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853-6"
+       width="25"
+       height="24.999998"
+       x="45"
+       y="60.000004"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\descAsc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="1.9999962" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853-65"
+       width="25"
+       height="24.999998"
+       x="75"
+       y="30"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\stillAsc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+       id="rect853-70"
+       width="25"
+       height="24.999998"
+       x="75"
+       y="60"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\descStill.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="MelodyContours">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 20,50 34.999998,34.999998"
+       id="path1164"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\asc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
+       d="M 20,65 34.999998,80.000003"
+       id="path1164-9"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\desc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471)"
+       d="M 50,50 57.524229,34.999998 64.999999,50"
+       id="path2265"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\ascDesc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-8)"
+       d="M 50,65.062998 57.524229,80.063 64.999999,65.062998"
+       id="path2265-3"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\descAsc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471)"
+       d="M 79.999998,50 H 89 l 5.999999,-15.000006"
+       id="path2661"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\stillAsc.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-7)"
+       d="M 80,64.311783 86,80 h 9"
+       id="path2661-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\descStill.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-5"
+       width="25"
+       height="24.999998"
+       x="10"
+       y="110"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="1.9999981" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-7-4"
+       width="25"
+       height="24.999998"
+       x="40"
+       y="110"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-76-1"
+       width="25"
+       height="24.999998"
+       x="10"
+       y="140"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-6-1"
+       width="25"
+       height="24.999998"
+       x="40"
+       y="140"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="1.9999962" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-65-3"
+       width="25"
+       height="24.999998"
+       x="10"
+       y="170.00002"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853-70-0"
+       width="25"
+       height="24.999998"
+       x="40"
+       y="170"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229"
+       ry="2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8)"
+       d="M 15,130 30,115"
+       id="path1164-2"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-6)"
+       d="m 45,115 15,15"
+       id="path1164-9-9"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-6)"
+       d="M 15,160 22.52423,145 30,160"
+       id="path2265-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-8-8)"
+       d="m 45,145.063 7.52423,15 7.47577,-15"
+       id="path2265-3-3"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-6)"
+       d="m 15,190.00001 h 9 L 30,175"
+       id="path2661-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2471-7-4)"
+       d="M 45,174.31178 51,190 h 9"
+       id="path2661-4-7"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\franc\OneDrive - Aalborg Universitet\Internship_Thesis\Haptic_Device\Tests\Recognition_Test\Icons\Melodic_Contours.png"
+       inkscape:export-xdpi="599.72229"
+       inkscape:export-ydpi="599.72229" />
+  </g>
+</svg>

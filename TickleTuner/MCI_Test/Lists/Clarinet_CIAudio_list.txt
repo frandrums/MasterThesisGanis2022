@@ -1,0 +1,12 @@
+1_asc_Clarinet_CI.wav;
+1_desc_Clarinet_CI.wav;
+1_ascDesc_Clarinet_CI.wav;
+1_descAsc_Clarinet_CI.wav;
+1_stillAsc_Clarinet_CI.wav;
+1_descStll_Clarinet_CI.wav;
+2_asc_Clarinet_CI.wav;
+2_desc_Clarinet_CI.wav;
+2_ascDesc_Clarinet_CI.wav;
+2_descAsc_Clarinet_CI.wav;
+2_stillAsc_Clarinet_CI.wav;
+2_descStll_Clarinet_CI.wav;
