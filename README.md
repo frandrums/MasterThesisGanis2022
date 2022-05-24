@@ -1,5 +1,5 @@
 **MASTER THESIS CONTENT**
-The repository is part of the Master Thesis intitled "" 
+The repository is part of the Master Thesis intitled "Vibrotactile Feedback for Musical Training of Cochlear Implants Users" 
 as final realization of Francesco Ganis' Master Course at the Sound and Music Computing programme at Aalborg University of Copenhagen.
 
 Folder *SoftToyPrototype* contains the 3D model of the enclosure for the haptic actuator. 
